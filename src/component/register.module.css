@@ -1,0 +1,10 @@
+.img{
+    border-top-right-radius: .3rem;
+    border-top-right-radius: .3rem;
+
+}
+@media (min-width: 1025px) {
+    .h-custom {
+    height: 100vh !important;
+    }
+    }
